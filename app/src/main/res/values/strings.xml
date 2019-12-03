@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Registracija</string>
+    <string name="ime">Ime:</string>
+    <string name="prezime">Prezime:</string>
+    <string name="sifra">Sifra:</string>
+    <string name="jmbg">JMBG:</string>
+    <string name="unesi_neko_ime">Unesi neko ime</string>
+    <string name="unesi_neko_prezime">Unesi neko prezime</string>
+    <string name="unesi_svoj_jmbg">Unesi svoj JMBG</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_password">Enter password</string>
+</resources>
